@@ -12,6 +12,6 @@ public class User {
     private String secondName;
     private String thirdName;
     private int indivTaxNumber;
-    private int phone;
+    private String phone;
 
 }
