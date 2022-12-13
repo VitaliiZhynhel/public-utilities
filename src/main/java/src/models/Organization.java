@@ -15,5 +15,6 @@ public class Organization {
     private String iban;
     private String phone;
     private String email;
+    private ServiceType serviceType;
 
 }
